@@ -18,6 +18,7 @@
     <modules>
         <module>sso-service</module>
         <module>crypto-data-service</module>
+        <module>discovery-server</module>
     </modules>
 
     <properties>
