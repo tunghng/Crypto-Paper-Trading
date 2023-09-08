@@ -1,4 +1,4 @@
-# Crypto Paper Trading
+# Crypto Trader Sim
 
 Discover CryptoTraderSim, your go-to web app for risk-free cryptocurrency trading. Sign up securely, access real-time crypto market data, manage your virtual portfolio, practice paper trading, view transaction history, and set price alerts - all in one place. Sharpen your crypto trading skills without risking real money. Start today!
 
