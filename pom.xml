@@ -19,6 +19,7 @@
         <module>sso-service</module>
         <module>crypto-data-service</module>
         <module>discovery-server</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>

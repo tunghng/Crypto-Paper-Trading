@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.io.IOException;
 
 @RestController
-@RequestMapping("data")
+@RequestMapping()
 public class CoinsDataController {
     private final CoinsDataService dataService;
 
